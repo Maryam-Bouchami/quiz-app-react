@@ -3,7 +3,7 @@ export default function Question({ question }) {
   const [choice, setChoice] = useState("");
   return (
     <div>
-      <h3>{question.qu}:</h3>
+      <h3>{question.qu}:::</h3>
 
       <label>
         <input
