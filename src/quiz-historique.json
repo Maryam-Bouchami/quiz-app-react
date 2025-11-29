@@ -3,60 +3,70 @@
     "qu": "En quelle année a eu lieu la chute de l'Empire romain d'Occident",
     "item1": "476",
     "item2": "800",
-    "item3": "1492"
+    "item3": "1492",
+    "correct": "476"
   },
   {
     "qu": "Qui était le premier empereur de France",
     "item1": "Napoléon Ier",
     "item2": "Louis XIV",
-    "item3": "Charlemagne"
+    "item3": "Charlemagne",
+    "correct": "Napoléon Ier"
   },
   {
     "qu": "Quel événement marque le début de la Première Guerre mondiale",
     "item1": "L'assassinat de l'archiduc François-Ferdinand",
     "item2": "Le traité de Versailles",
-    "item3": "La prise de la Bastille"
+    "item3": "La prise de la Bastille",
+    "correct": "L'assassinat de l'archiduc François-Ferdinand"
   },
   {
     "qu": "Qui a découvert l'Amérique en 1492",
     "item1": "Christophe Colomb",
     "item2": "Vasco de Gama",
-    "item3": "Magellan"
+    "item3": "Magellan",
+    "correct": "Christophe Colomb"
   },
   {
     "qu": "Quel roi de France a été exécuté pendant la Révolution française",
     "item1": "Louis XVI",
     "item2": "Louis XIV",
-    "item3": "Charles X"
+    "item3": "Charles X",
+    "correct": "Louis XVI"
   },
   {
     "qu": "Quel pays a construit le mur de Berlin en 1961",
     "item1": "Allemagne de l'Est",
     "item2": "Allemagne de l'Ouest",
-    "item3": "Union soviétique"
+    "item3": "Union soviétique",
+    "correct": "Allemagne de l'Est"
   },
   {
     "qu": "Qui était le chef nazi responsable de l’Allemagne pendant la Seconde Guerre mondiale",
     "item1": "Adolf Hitler",
     "item2": "Joseph Goebbels",
-    "item3": "Hermann Göring"
+    "item3": "Hermann Göring",
+    "correct": "Adolf Hitler"
   },
   {
     "qu": "Quel peuple ancien a construit les pyramides de Gizeh",
     "item1": "Les Égyptiens",
     "item2": "Les Mayas",
-    "item3": "Les Romains"
+    "item3": "Les Romains",
+    "correct": "Les Égyptiens"
   },
   {
     "qu": "Qui était la reine d’Égypte célèbre pour sa relation avec Jules César",
     "item1": "Cléopâtre",
     "item2": "Néfertiti",
-    "item3": "Hatshepsout"
+    "item3": "Hatshepsout",
+    "correct": "Cléopâtre"
   },
   {
     "qu": "Quel événement a mis fin à la Seconde Guerre mondiale en Asie",
     "item1": "Les bombardements atomiques d’Hiroshima et Nagasaki",
     "item2": "Le débarquement de Normandie",
-    "item3": "L'assassinat de l’archiduc Ferdinand"
+    "item3": "L'assassinat de l’archiduc Ferdinand",
+    "correct": "Les bombardements atomiques d’Hiroshima et Nagasaki"
   }
 ]

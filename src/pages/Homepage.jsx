@@ -7,7 +7,6 @@ export default function Homepage() {
 
   return (
     <div>
-      This Homepage
       <Categories questions={questions} setQuestions={setQuestions} />
     </div>
   );

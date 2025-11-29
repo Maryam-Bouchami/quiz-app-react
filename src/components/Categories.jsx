@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import questionsLitt from "../quiz-litteraire.json";
 import questionsHist from "../quiz-historique.json";
-
+import styles from "./category.module.css";
 export default function Categories({ setQuestions }) {
   const navigate = useNavigate();
 
@@ -11,7 +11,7 @@ export default function Categories({ setQuestions }) {
   };
 
   return (
-    <div>
+    <div className={styles.quizCategories}>
       <button onClick={() => handleCategory(questionsLitt)}>Littérature</button>
       <button onClick={() => handleCategory(questionsHist)}>Histoire</button>
     </div>

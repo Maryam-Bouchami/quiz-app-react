@@ -1,0 +1,23 @@
+.quizCategories {
+  width: 70%;
+  height: 300px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.quizCategories button {
+  height: 120px;
+  width: 120px;
+  border: none;
+  border-radius: 60px;
+  font-size: 1.1em;
+  background-color: #f6fa03;
+  color: #ad07ad;
+  box-shadow: 2px 2px #d4b8d4;
+}
+
+.quizCategories button:hover {
+  background-color: #ad07ad;
+  color: #f6fa03;
+}

@@ -3,11 +3,14 @@ import styles from "./nav.module.css";
 export default function Nav() {
   return (
     <div className={styles.navbar}>
-      <div>
+      <div className={styles.logo}>
         <img src="/quiz.png" />
+        <h1>Quiz App With React</h1>
       </div>
       <div>
-        <Link to="/">Home Page </Link>
+        <Link className={styles.Link} to="/">
+          Home Page{" "}
+        </Link>
       </div>
     </div>
   );

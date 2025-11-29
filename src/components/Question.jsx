@@ -1,48 +1,49 @@
 import { useState } from "react";
-export default function Question({ question }) {
+import styles from "./question.module.css";
+
+export default function Question({
+  question,
+  onAnswerChange,
+  answer,
+  submitted,
+}) {
   const [choice, setChoice] = useState("");
+
+  function verifyAnswer(selected) {
+    setChoice(selected);
+    const isCorrect = selected === question.correct;
+
+    onAnswerChange(question.id, selected, isCorrect);
+  }
+
   return (
-    <div>
-      <h3>{question.qu}:::</h3>
+    <div className={styles.questionBlock}>
+      <h3>{question.qu}</h3>
 
-      <label>
-        <input
-          type="radio"
-          name="option"
-          value={question.item1}
-          checked={choice === question.item1}
-          onChange={(e) => setChoice(e.target.value)}
-        />
-        {question.item1}
-      </label>
-
-      <br />
-
-      <label>
-        <input
-          type="radio"
-          name="option"
-          value={question.item2}
-          checked={choice === question.item2}
-          onChange={(e) => setChoice(e.target.value)}
-        />
-        {question.item2}
-      </label>
-
-      <br />
-
-      <label>
-        <input
-          type="radio"
-          name="option"
-          value={question.item3}
-          checked={choice === question.item3}
-          onChange={(e) => setChoice(e.target.value)}
-        />
-        {question.item3}
-      </label>
+      {[question.item1, question.item2, question.item3].map((item) => (
+        <label key={item}>
+          <input
+            type="radio"
+            name={`option-${question.id}`}
+            value={item}
+            checked={choice === item}
+            onChange={(e) => verifyAnswer(e.target.value)}
+            disabled={submitted} // optionnel : désactiver après envoi
+          />
+          {item}
+        </label>
+      ))}
 
       <p>Valeur sélectionnée : {choice}</p>
+
+      {/* Afficher le résultat sous la question si soumis */}
+      {submitted && answer && (
+        <p style={{ color: answer.isCorrect ? "green" : "red" }}>
+          {answer.isCorrect
+            ? "✔️ Correct"
+            : `❌ Incorrect (Réponse : ${question.correct})`}
+        </p>
+      )}
     </div>
   );
 }
