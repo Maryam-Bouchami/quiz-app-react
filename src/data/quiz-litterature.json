@@ -1,0 +1,72 @@
+[
+  {
+    "qu": "Who wrote the novel '1984'",
+    "item1": "George Orwell",
+    "item2": "Aldous Huxley",
+    "item3": "Ray Bradbury",
+    "correct": "George Orwell"
+  },
+  {
+    "qu": "What is the name of the protagonist in 'The Great Gatsby'",
+    "item1": "Jay Gatsby",
+    "item2": "Nick Carraway",
+    "item3": "Tom Buchanan",
+    "correct": "Jay Gatsby"
+  },
+  {
+    "qu": "Who is the author of 'Pride and Prejudice'",
+    "item1": "Jane Austen",
+    "item2": "Charlotte Brontë",
+    "item3": "Emily Brontë",
+    "correct": "Jane Austen"
+  },
+  {
+    "qu": "In which novel does the character Holden Caulfield appear",
+    "item1": "The Catcher in the Rye",
+    "item2": "On the Road",
+    "item3": "The Bell Jar",
+    "correct": "The Catcher in the Rye"
+  },
+  {
+    "qu": "Who wrote 'To Kill a Mockingbird'",
+    "item1": "Harper Lee",
+    "item2": "Truman Capote",
+    "item3": "John Steinbeck",
+    "correct": "Harper Lee"
+  },
+  {
+    "qu": "What is the opening line of 'Moby-Dick'",
+    "item1": "Call me Ishmael",
+    "item2": "It was the best of times",
+    "item3": "All happy families are alike",
+    "correct": "Call me Ishmael"
+  },
+  {
+    "qu": "Who is the author of the 'Harry Potter' series",
+    "item1": "J.K. Rowling",
+    "item2": "Suzanne Collins",
+    "item3": "Stephenie Meyer",
+    "correct": "J.K. Rowling"
+  },
+  {
+    "qu": "In Shakespeare's play, who kills King Duncan",
+    "item1": "Macbeth",
+    "item2": "Banquo",
+    "item3": "Macduff",
+    "correct": "Macbeth"
+  },
+  {
+    "qu": "Who wrote 'One Hundred Years of Solitude'",
+    "item1": "Gabriel García Márquez",
+    "item2": "Jorge Luis Borges",
+    "item3": "Pablo Neruda",
+    "correct": "Gabriel García Márquez"
+  },
+  {
+    "qu": "What is the name of the monster in Mary Shelley's novel",
+    "item1": "Frankenstein's monster",
+    "item2": "Dracula",
+    "item3": "Mr. Hyde",
+    "correct": "Frankenstein's monster"
+  }
+]

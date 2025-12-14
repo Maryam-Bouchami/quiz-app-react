@@ -1,0 +1,72 @@
+[
+  {
+    "qu": "Who is considered the father of psychoanalysis",
+    "item1": "Sigmund Freud",
+    "item2": "Carl Jung",
+    "item3": "B.F. Skinner",
+    "correct": "Sigmund Freud"
+  },
+  {
+    "qu": "What is the term for the fear of open or crowded spaces",
+    "item1": "Agoraphobia",
+    "item2": "Claustrophobia",
+    "item3": "Social phobia",
+    "correct": "Agoraphobia"
+  },
+  {
+    "qu": "Who conducted the famous experiment with dogs demonstrating classical conditioning",
+    "item1": "Ivan Pavlov",
+    "item2": "John Watson",
+    "item3": "Edward Thorndike",
+    "correct": "Ivan Pavlov"
+  },
+  {
+    "qu": "What is Maslow's hierarchy of needs primarily concerned with",
+    "item1": "Human motivation",
+    "item2": "Memory formation",
+    "item3": "Child development",
+    "correct": "Human motivation"
+  },
+  {
+    "qu": "Which psychologist is known for the theory of cognitive development in children",
+    "item1": "Jean Piaget",
+    "item2": "Erik Erikson",
+    "item3": "Lev Vygotsky",
+    "correct": "Jean Piaget"
+  },
+  {
+    "qu": "What does IQ stand for",
+    "item1": "Intelligence Quotient",
+    "item2": "Intellectual Quality",
+    "item3": "Internal Query",
+    "correct": "Intelligence Quotient"
+  },
+  {
+    "qu": "Who developed the concept of the collective unconscious",
+    "item1": "Carl Jung",
+    "item2": "Sigmund Freud",
+    "item3": "Alfred Adler",
+    "correct": "Carl Jung"
+  },
+  {
+    "qu": "What is the term for memory loss",
+    "item1": "Amnesia",
+    "item2": "Aphasia",
+    "item3": "Apraxia",
+    "correct": "Amnesia"
+  },
+  {
+    "qu": "Which part of the brain is primarily responsible for processing emotions",
+    "item1": "Amygdala",
+    "item2": "Cerebellum",
+    "item3": "Corpus callosum",
+    "correct": "Amygdala"
+  },
+  {
+    "qu": "What is the Stanford Prison Experiment famous for demonstrating",
+    "item1": "The power of social situations on behavior",
+    "item2": "The effects of sleep deprivation",
+    "item3": "The nature of obedience to authority",
+    "correct": "The power of social situations on behavior"
+  }
+]

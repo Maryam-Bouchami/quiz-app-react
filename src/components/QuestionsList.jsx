@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Question from "./Question";
-
+import styles from "../styles/questionsList.module.css";
 export default function QuestionsList({ questions }) {
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
@@ -18,8 +18,6 @@ export default function QuestionsList({ questions }) {
 
   return (
     <>
-      <h3>Répondre au Quiz</h3>
-
       {questions.map((question, index) => (
         <Question
           key={index}
@@ -30,7 +28,9 @@ export default function QuestionsList({ questions }) {
         />
       ))}
 
-      <button onClick={handleSubmit}>Envoyer</button>
+      <button className={styles.submitQuiz} onClick={handleSubmit}>
+        Send
+      </button>
     </>
   );
 }

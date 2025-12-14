@@ -1,0 +1,72 @@
+[
+  {
+    "qu": "What is the chemical symbol for gold",
+    "item1": "Au",
+    "item2": "Ag",
+    "item3": "Fe",
+    "correct": "Au"
+  },
+  {
+    "qu": "What is the speed of light in a vacuum",
+    "item1": "299,792,458 meters per second",
+    "item2": "150,000,000 meters per second",
+    "item3": "450,000,000 meters per second",
+    "correct": "299,792,458 meters per second"
+  },
+  {
+    "qu": "Who developed the theory of general relativity",
+    "item1": "Albert Einstein",
+    "item2": "Isaac Newton",
+    "item3": "Stephen Hawking",
+    "correct": "Albert Einstein"
+  },
+  {
+    "qu": "What is the powerhouse of the cell",
+    "item1": "Mitochondria",
+    "item2": "Nucleus",
+    "item3": "Ribosome",
+    "correct": "Mitochondria"
+  },
+  {
+    "qu": "What is the most abundant gas in Earth's atmosphere",
+    "item1": "Nitrogen",
+    "item2": "Oxygen",
+    "item3": "Carbon dioxide",
+    "correct": "Nitrogen"
+  },
+  {
+    "qu": "What is the smallest unit of matter",
+    "item1": "Atom",
+    "item2": "Molecule",
+    "item3": "Cell",
+    "correct": "Atom"
+  },
+  {
+    "qu": "Who is credited with discovering penicillin",
+    "item1": "Alexander Fleming",
+    "item2": "Louis Pasteur",
+    "item3": "Marie Curie",
+    "correct": "Alexander Fleming"
+  },
+  {
+    "qu": "What is the process by which plants convert sunlight into energy",
+    "item1": "Photosynthesis",
+    "item2": "Respiration",
+    "item3": "Fermentation",
+    "correct": "Photosynthesis"
+  },
+  {
+    "qu": "How many planets are in our solar system",
+    "item1": "8",
+    "item2": "9",
+    "item3": "7",
+    "correct": "8"
+  },
+  {
+    "qu": "What is the hardest natural substance on Earth",
+    "item1": "Diamond",
+    "item2": "Quartz",
+    "item3": "Steel",
+    "correct": "Diamond"
+  }
+]

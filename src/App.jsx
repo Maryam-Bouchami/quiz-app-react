@@ -8,6 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Nav />
+
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/quiz" element={<Quiz />} />

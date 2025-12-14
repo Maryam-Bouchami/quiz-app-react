@@ -7,17 +7,17 @@
   align-items: center;
 }
 .quizCategories button {
-  height: 120px;
-  width: 120px;
+  height: 160px;
+  width: 160px;
   border: none;
-  border-radius: 60px;
-  font-size: 1.1em;
-  background-color: #f6fa03;
+  border-radius: 80px;
+  font-size: 1.4em;
+  background: linear-gradient(to left, #facd03, #f8df6d);
   color: #ad07ad;
   box-shadow: 2px 2px #d4b8d4;
 }
 
 .quizCategories button:hover {
-  background-color: #ad07ad;
-  color: #f6fa03;
+  background: linear-gradient(to left, #ad07ad, #eca3ec);
+  color: #facd03;
 }

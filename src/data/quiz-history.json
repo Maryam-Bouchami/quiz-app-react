@@ -1,0 +1,72 @@
+[
+  {
+    "qu": "In what year did the fall of the Western Roman Empire occur",
+    "item1": "476",
+    "item2": "800",
+    "item3": "1492",
+    "correct": "476"
+  },
+  {
+    "qu": "Who was the first Emperor of France",
+    "item1": "Napoleon I",
+    "item2": "Louis XIV",
+    "item3": "Charlemagne",
+    "correct": "Napoleon I"
+  },
+  {
+    "qu": "What event marks the beginning of World War I",
+    "item1": "The assassination of Archduke Franz Ferdinand",
+    "item2": "The Treaty of Versailles",
+    "item3": "The Storming of the Bastille",
+    "correct": "The assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "qu": "Who discovered America in 1492",
+    "item1": "Christopher Columbus",
+    "item2": "Vasco da Gama",
+    "item3": "Magellan",
+    "correct": "Christopher Columbus"
+  },
+  {
+    "qu": "Which King of France was executed during the French Revolution",
+    "item1": "Louis XVI",
+    "item2": "Louis XIV",
+    "item3": "Charles X",
+    "correct": "Louis XVI"
+  },
+  {
+    "qu": "Which country built the Berlin Wall in 1961",
+    "item1": "East Germany",
+    "item2": "West Germany",
+    "item3": "Soviet Union",
+    "correct": "East Germany"
+  },
+  {
+    "qu": "Who was the Nazi leader responsible for Germany during World War II",
+    "item1": "Adolf Hitler",
+    "item2": "Joseph Goebbels",
+    "item3": "Hermann Göring",
+    "correct": "Adolf Hitler"
+  },
+  {
+    "qu": "Which ancient civilization built the pyramids of Giza",
+    "item1": "The Egyptians",
+    "item2": "The Mayans",
+    "item3": "The Romans",
+    "correct": "The Egyptians"
+  },
+  {
+    "qu": "Who was the Queen of Egypt famous for her relationship with Julius Caesar",
+    "item1": "Cleopatra",
+    "item2": "Nefertiti",
+    "item3": "Hatshepsut",
+    "correct": "Cleopatra"
+  },
+  {
+    "qu": "What event ended World War II in Asia",
+    "item1": "The atomic bombings of Hiroshima and Nagasaki",
+    "item2": "The Normandy landings",
+    "item3": "The assassination of Archduke Ferdinand",
+    "correct": "The atomic bombings of Hiroshima and Nagasaki"
+  }
+]

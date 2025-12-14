@@ -1,6 +1,6 @@
 import QuestionsList from "../components/QuestionsList";
 import { useLocation } from "react-router-dom";
-import styles from "./quiz.module.css";
+import styles from "../styles/quiz.module.css";
 export default function Quiz() {
   const location = useLocation();
   const { questions } = location.state || { questions: [] };
